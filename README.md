@@ -9,9 +9,9 @@
 
 - 💬 Ask me about **React.js, JavaScript.**
 
-- 📫 How to reach me **icoder4693@gmail.com**
+- 📫 How to reach me **prithakarki030@gmail.com**
 
-- ⚡ Fun fact **I am funny.**
+- ⚡ Fun fact **Why not coding.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
