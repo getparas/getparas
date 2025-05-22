@@ -20,9 +20,10 @@ I’m a driven junior frontend engineer with a passion for crafting intuitive, p
 - React.js component architecture and performance optimization
 
 
-### 📫 Get In Touch
-- 📧 prithakarki030@gmail.com
-- 🔗 [LinkedIn](https://linkedin.com/in/iCoder46)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/iCoder46" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prithakarki" height="30" width="40" /></a>
+</p>
 
 ---
 
@@ -41,6 +42,8 @@ I believe every line of code is an opportunity—to learn, to improve, and to ma
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=getparas&show_icons=true&locale=en" alt="getparas" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=getparas&" alt="getparas" /></p>
+
+---
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
