@@ -12,14 +12,21 @@
 ---
 
 ## 🚀 About Me
-I craft **pixel-perfect, scalable, and high-performance web applications**.  
-For me, frontend development is more than just code — it’s about creating **seamless user experiences** where design meets functionality.  
+<div style="display: flex; flex-wrap: wrap; gap: 20px;">
+  <div style="flex: 1; min-width: 0;">
+    I craft **pixel-perfect, scalable, and high-performance web applications**.  
+    For me, frontend development is more than just code — it’s about creating **seamless user experiences** where design meets functionality.  
 
-🔹 Turning **complex problems** into **intuitive solutions**  
-🔹 Writing **clean, reusable, and scalable** code  
-🔹 Always **curious, learning, and experimenting** with the latest web tech  
+    🔹 Turning **complex problems** into **intuitive solutions**  
+    🔹 Writing **clean, reusable, and scalable** code  
+    🔹 Always **curious, learning, and experimenting** with the latest web tech  
 
-💡 *I believe the best frontend is invisible — it simply works.*
+    💡 *I believe the best frontend is invisible — it simply works.*
+  </div>
+  <div style="flex: 0 0 400px;">
+    <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="coding" width="400" />
+  </div>
+</div>
 
 ## 🌍 Connect with Me
 <p align="left">
