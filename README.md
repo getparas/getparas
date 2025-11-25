@@ -12,6 +12,7 @@
 ---
 
 ## 🚀 About Me
+
 I craft **pixel-perfect, scalable, and high-performance web applications**.  
 For me, frontend development is more than just code — it’s about creating **seamless user experiences** where design meets functionality.  
 
@@ -22,6 +23,7 @@ For me, frontend development is more than just code — it’s about creating **
 💡 *I believe the best frontend is invisible — it simply works.*
 
 ## 🌍 Connect with Me
+
 <p align="left">
   <a href="https://linkedin.com/in/iCoder46" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prithakarki" height="30" width="40" /></a>
 </p>
