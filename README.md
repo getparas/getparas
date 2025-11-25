@@ -5,9 +5,10 @@
 
 <img align="right" width=400 src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="coding"/>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=getparas&label=Profile%20views&color=0e75b6&style=flat" alt="getparas"/> 
-</p>
+<img align="right" width="350" style="margin-left: 20px;" 
+     src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
+
+<br clear="both"/>
 
 ---
 
