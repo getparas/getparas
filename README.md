@@ -38,14 +38,6 @@ For me, frontend development is more than just code — it’s about creating **
 
 ---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=getparas&show_icons=true&locale=en&layout=compact" alt="getparas" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=getparas&show_icons=true&locale=en" alt="getparas" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=getparas&" alt="getparas" /></p>
-
----
-
 ## 🐍 Fun Little Thing  
 
 <picture>
