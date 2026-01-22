@@ -14,13 +14,13 @@
 ## 🚀 About Me
 
 I craft **pixel-perfect, scalable, and high-performance web applications**.  
-For me, frontend development is more than just code — it’s about creating **seamless user experiences** where design meets functionality.  
+For me, frontend development is more than just code, it’s about creating **seamless user experiences** where design meets functionality.  
 
 🔹 Turning **complex problems** into **intuitive solutions**  
 🔹 Writing **clean, reusable, and scalable** code  
 🔹 Always **curious, learning, and experimenting** with the latest web tech  
 
-💡 *I believe the best frontend is invisible — it simply works.*
+💡 *I believe the best frontend is invisible, it simply works.*
 
 ## 🌍 Connect with Me
 
@@ -50,5 +50,5 @@ For me, frontend development is more than just code — it’s about creating **
 
 ## ⚡ Fun Fact  
 
-Every **line of code** is my brushstroke 🎨 — I don’t just build websites, I design experiences.
+Every **line of code** is my brushstroke 🎨, I don’t just build websites, I design experiences.
 
