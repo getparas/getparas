@@ -1,6 +1,6 @@
 ![MasterHead](https://user-images.githubusercontent.com/80781196/190216139-7697aa5a-c9a0-4bd6-80bf-3aca76a2e1c8.gif)
 
-<h1 align="center">Greetings! I'm Pritha Karki</h1>
+<h1 align="center">Greetings! Myself Pritha Karki</h1>
 <h3 align="center">Frontend Developer | React Enthusiast | Problem Solver</h3>
 
 <img align="right" width=400 src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="coding"/>
