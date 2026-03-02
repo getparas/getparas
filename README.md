@@ -3,12 +3,6 @@
 <h1 align="center">Hey, I'm Paras 👋</h1>
 <h3 align="center">Frontend Developer · React Specialist · UI Perfectionist</h3>
 
-<img align="center" width=400 src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="coding"/>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=getparas&label=Profile%20views&color=0e75b6&style=flat" />
-</p>
-
 ---
 
 ## ⚡ What I Do
@@ -23,7 +17,7 @@ I build **interfaces that feel alive** — fast, responsive, and obsessively det
 
 ---
 
-## 🛠 Tech Arsenal
+## 🛠 Tech Stack
 
 [![My Skills](https://skillicons.dev/icons?i=js,ts,nextjs,react,nodejs,tailwind,mongodb&theme=light)](https://skillicons.dev#gh-dark-mode-only)
 
@@ -41,7 +35,11 @@ I build **interfaces that feel alive** — fast, responsive, and obsessively det
 
 ---
 
-## ⚡ Fun Fact  
+<div align="center">
 
-Every **line of code** is my brushstroke 🎨, I don’t just build websites, I design experiences.
+**If you like what I build, drop a ⭐ — it keeps me shipping.**
+
+![Profile Views](https://komarev.com/ghpvc/?username=getparas&color=58a6ff&style=flat-square&label=visitors)
+
+</div>
 
