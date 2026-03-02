@@ -1,26 +1,19 @@
 ![MasterHead](https://user-images.githubusercontent.com/80781196/190216139-7697aa5a-c9a0-4bd6-80bf-3aca76a2e1c8.gif)
 
-<h1 align="center">Greetings! Myself Pritha Karki</h1>
-<h3 align="center">Frontend Developer | React Enthusiast | Problem Solver</h3>
+<h1 align="center">Hey, I'm Paras 👋</h1>
+<h3 align="center">Frontend Developer · React Specialist · UI Perfectionist</h3>
 
-<img align="right" width=400 src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="coding"/>
+<img align="center" width=400 src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="coding"/>
 
-<p align="left">
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=getparas&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
 ---
 
-## 🚀 About Me
+## ⚡ What I Do
 
-I craft **pixel-perfect, scalable, and high-performance web applications**.  
-For me, frontend development is more than just code, it’s about creating **seamless user experiences** where design meets functionality.  
-
-🔹 Turning **complex problems** into **intuitive solutions**  
-🔹 Writing **clean, reusable, and scalable** code  
-🔹 Always **curious, learning, and experimenting** with the latest web tech  
-
-💡 *I believe the best frontend is invisible, it simply works.*
+I build **interfaces that feel alive** — fast, responsive, and obsessively detailed. I care about the 1px that's off, the 100ms that's too slow, and the interaction that doesn't feel right. If it's on screen, I want it to look and feel perfect.
 
 ## 🌍 Connect with Me
 
